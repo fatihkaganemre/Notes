@@ -1,6 +1,7 @@
 ## User settings
 xcuserdata/
 **/xcuserdata/*/UserInterfaceState.xcuserstate
+*.env
 
 ## App packaging
 *.ipa
@@ -14,3 +15,5 @@ xcuserdata/
 Frontend/node_modules
 Backend/node_modules
 node_modules
+
+
