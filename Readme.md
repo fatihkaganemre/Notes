@@ -5,11 +5,11 @@ It uses:
 - NodeJS for backend
 
 How to run the app: 
-#FrontEnd
+>FrontEnd
 - npm install
 - npm start
 
-#Backend
+>Backend
 - npm install
 - node server.js || nodemon server.js
 
